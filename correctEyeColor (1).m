@@ -1,6 +1,4 @@
 % Improved Red-Eye Removal in MATLAB
-%dawit degu...........01926/14
-%kidus markos.........01316/14
 clc; clear; close all;
 
 % Read the image
